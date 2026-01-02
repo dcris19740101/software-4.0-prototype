@@ -358,7 +358,7 @@ This prototype demonstrates:
 - Explainability (SHAP values)
 - Automated retraining triggers
 
-**Phase 4** (2027): Advanced applications
+**Phase 4** (Q3-Q4 2026): Advanced applications
 - Multi-model ensembles
 - Hierarchical learning
 - Causal inference
