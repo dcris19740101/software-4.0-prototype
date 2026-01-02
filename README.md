@@ -53,7 +53,7 @@ git clone https://github.com/YOUR_USERNAME/software-4.0-prototype.git
 cd software-4.0-prototype
 
 # Start everything
-docker-compose up --build
+docker compose up --build
 
 # Open dashboard in browser
 open http://localhost:8501
@@ -400,7 +400,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 - **Microservice Code**: ~20 lines
 - **Total Demo Code**: ~500 lines
-- **Setup Time**: 2 minutes (`docker-compose up`)
+- **Setup Time**: 2 minutes (`docker compose up`)
 - **Learning Speed**: 90%+ accuracy in ~8 minutes
 - **Adaptation Time**: ~2 minutes for new patterns
 
